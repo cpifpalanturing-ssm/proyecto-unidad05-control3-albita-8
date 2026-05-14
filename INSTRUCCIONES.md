@@ -11,7 +11,7 @@
 
 En esta tercera revisión se evaluará la **evolución real del proyecto con respecto a la segunda entrega de control**. El objetivo es comprobar qué cambios se han producido, justificar las decisiones tomadas y presentar una **segunda versión funcional de la aplicación**, incorporando ya un **CRUD completo** sobre la API REST propia del proyecto.
 
-Antes de realizar ningún cambio, debéis partir del repositorio de la primera entrega de control. Por tanto, **el primer `commit` en este nuevo repositorio contendrá todo lo que subisteis en la primera entrega de control, incluido el fichero `.gitignore`**.
+Antes de realizar ningún cambio, debéis partir del repositorio de la segunda entrega de control. Por tanto, **el primer `commit` en este nuevo repositorio contendrá todo lo que subisteis en la segunda entrega de control, excepto el fichero `.gitignore`**, ya que se encuentra incluido en este nuevo repositorio.
 
 ---
 
